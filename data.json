@@ -1,0 +1,146 @@
+{
+  "about": {
+    "name": "Ankit Mawle",
+    "title": "Full-Stack Developer & Tech Innovator",
+    "description": "Crafting cutting-edge solutions in VLSI, AI/ML, Web3, and Cloud Technologies. Transforming ideas into reality with code that matters.",
+    "bio": [
+      "I'm a versatile full-stack developer with a passion for cutting-edge technologies. My expertise spans from VLSI system design to modern web technologies, AI/ML, and blockchain development.",
+      "I've developed the VSDIAT LMS for VLSI System Design and worked on various projects involving CAD/CAM software, cloud technologies, and innovative web applications."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "50+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "10+",
+        "label": "Technologies"
+      }
+    ],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/ankitmawle/",
+        "icon": "github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ankitmawle",
+        "icon": "linkedin"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        { "name": "Python", "level": 95 },
+        { "name": "JavaScript", "level": 90 },
+        { "name": "TypeScript", "level": 85 },
+        { "name": "C/C++", "level": 80 }
+      ]
+    },
+    {
+      "category": "Web Technologies",
+      "items": [
+        { "name": "SvelteKit", "level": 88 },
+        { "name": "React", "level": 90 },
+        { "name": "Node.js", "level": 85 },
+        { "name": "Cloudflare Workers", "level": 82 }
+      ]
+    },
+    {
+      "category": "Emerging Technologies",
+      "items": [
+        { "name": "AI/ML", "level": 87 },
+        { "name": "Web3", "level": 78 },
+        { "name": "IoT", "level": 83 },
+        { "name": "Cloud Technologies", "level": 85 }
+      ]
+    },
+    {
+      "category": "Specialized",
+      "items": [
+        { "name": "VLSI Design", "level": 92 },
+        { "name": "CAD/CAM", "level": 88 },
+        { "name": "System Architecture", "level": 85 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "VSDIAT LMS",
+      "description": "Comprehensive Learning Management System for VLSI System Design education, featuring interactive modules, progress tracking, and advanced assessment tools.",
+      "image": "https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "https://vsdiat.vlsisystemdesign.com",
+      "technologies": ["React", "Node.js", "MongoDB", "AWS"]
+    },
+    {
+      "title": "Dhimath Platform",
+      "description": "Advanced mathematical computing platform with AI-powered problem solving, interactive visualizations, and collaborative learning features.",
+      "image": "https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "https://dhimath.in",
+      "technologies": ["Python", "TensorFlow", "SvelteKit", "WebGL"]
+    },
+    {
+      "title": "CAD/CAM Integration Suite",
+      "description": "Integrated CAD/CAM software solutions for manufacturing automation, featuring real-time collaboration and advanced simulation capabilities.",
+      "image": "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "#",
+      "technologies": ["C++", "OpenGL", "Qt", "Docker"]
+    },
+    {
+      "title": "Smart IoT Analytics",
+      "description": "Real-time IoT data analytics platform with machine learning insights, predictive maintenance, and intelligent automation features.",
+      "image": "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "#",
+      "technologies": ["Python", "IoT", "Kafka", "Kubernetes"]
+    },
+    {
+      "title": "DeFi Analytics DApp",
+      "description": "Decentralized application for DeFi portfolio tracking and analytics, with smart contract integration and cross-chain compatibility.",
+      "image": "https://images.pexels.com/photos/8499988/pexels-photo-8499988.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "#",
+      "technologies": ["Solidity", "Web3.js", "React", "IPFS"]
+    },
+    {
+      "title": "Serverless Cloud Architecture",
+      "description": "Scalable serverless architecture using Cloudflare Workers, with edge computing capabilities and global content delivery.",
+      "image": "https://images.pexels.com/photos/8423999/pexels-photo-8423999.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "url": "#",
+      "technologies": ["Cloudflare Workers", "TypeScript", "Durable Objects", "KV Storage"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Full-Stack Developer",
+      "company": "VLSI System Design Corp",
+      "period": "2022 - Present",
+      "description": "Leading the development of VSDIAT LMS, implementing advanced learning analytics, and creating interactive VLSI design simulation tools.",
+      "skills": ["React", "Node.js", "Python", "AWS"]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tech Innovation Lab",
+      "period": "2020 - 2022",
+      "description": "Developed CAD/CAM integration solutions, implemented IoT data pipelines, and created machine learning models for predictive analytics.",
+      "skills": ["C++", "Python", "IoT", "TensorFlow"]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Digital Solutions Inc",
+      "period": "2019 - 2020",
+      "description": "Built responsive web applications, implemented modern JavaScript frameworks, and optimized performance for large-scale applications.",
+      "skills": ["JavaScript", "React", "SvelteKit", "CSS3"]
+    }
+  ],
+  "contact": {
+    "email": "ankit.mawle@example.com",
+    "linkedin": "linkedin.com/in/ankitmawle",
+    "github": "github.com/ankitmawle"
+  }
+}
