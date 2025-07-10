@@ -340,7 +340,6 @@ const animateCounters = () => {
             if (current < target) {
                 current += increment;
                 counter.textContent = Math.ceil(current) + '+';
-                setTimeout(updateCounter, 50);
             } else {
                 counter.textContent = target + '+';
             }
