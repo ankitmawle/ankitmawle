@@ -1,95 +1,146 @@
-<h1 align="center">Hey there 👋, I'm Ankit Mawle</h1>
-<p align="center">
-  <em>Full-Stack Developer | Embedded Systems Architect | VLSI & AI Explorer</em><br>
-  <em>Crafting software that talks to silicon, scales to the cloud, and unlocks the future.</em>
-</p>
+# Mawle Technologies - Landing Page
 
----
+A modern, responsive landing page for **Mawle Technologies**, showcasing custom software development services with a creative and professional design.
 
-### 🔭 What I'm Building
+## 🌟 Features
 
-🚀 **VSDSquadron Pro Edge AI**  
-→ RISC-V based Edge AI platform with embedded intelligence and hardware-software co-design.  
-→ [GitHub](https://github.com/ankitmawle/VSDSquadron_pro_Edge_AI)
+- **Modern Design**: Clean, professional layout with gradient backgrounds and smooth animations
+- **Responsive**: Fully responsive design that works on all devices
+- **Interactive Elements**: Smooth scrolling, hover effects, and animated components
+- **Service Showcase**: Comprehensive display of software development services
+- **Portfolio Integration**: Direct links to GitHub and Upwork profiles
+- **Contact Form**: Interactive contact form with validation
+- **Performance Optimized**: Fast loading with optimized CSS and JavaScript
 
-🌿 **IoT-Powered Energy Monitoring System**  
-→ ESP32-based logger for high-voltage systems with ML load forecasting and local dashboard.  
+## 🛠️ Technologies Used
 
-🧠 **Tokeniz – Web3 Gifting Platform**  
-→ Lock crypto inside NFTs with scheduled delivery and live updates.  
-→ 🏆 2nd Runner-Up, Tron Grand Hackathon Season 2
+- **HTML5**: Semantic markup structure
+- **CSS3**: Modern styling with Flexbox, Grid, and custom properties
+- **JavaScript (ES6+)**: Interactive functionality and animations
+- **Font Awesome**: Icons for enhanced visual appeal
+- **Google Fonts (Inter)**: Professional typography
 
-🔬 **Cepton Lidar Testing System**  
-→ Python-based framework and SOPs for automated Lidar testing.
+## 🚀 Services Highlighted
 
-🌱 **AgriTech Precision Farming Platform**  
-→ Sensor-driven crop support system with pH and soil quality detection, auto-fertilization, and AI-powered insights.
+- **Web Development**: Custom web applications with modern frameworks
+- **Mobile Development**: Native and cross-platform mobile applications
+- **Backend Development**: Robust APIs and server-side solutions
+- **Cloud Solutions**: Scalable cloud-native applications
+- **System Integration**: Seamless third-party integrations
+- **Maintenance & Support**: Ongoing technical support and updates
 
-💊 **Automated Pharmaceutical Shop**  
-→ IoT-powered smart medicine dispensers with mobile app interface.
+## 📁 Project Structure
 
-💸 **SmartPay – Web3 Microtransaction Platform**  
-→ Crypto payments with UPI-style flow.  
-→ 🏆 Top 5, Tron Grand Hackathon Season 3
-
-
----
-
-### 🧩 My Stack of Spells
-
-```yaml
-Languages: [ Python, JavaScript, TypeScript, C++, C, Solidity ]
-Frontend:  [ SvelteKit, React, HTML5, CSS3 ]
-Backend:   [ Node.js, Flask, Cloudflare Workers, Express ]
-DevOps:    [ Docker, GitHub Actions, Firebase, Cloudflare, AWS ]
-IoT / Embedded: [ ESP32, STM32, RISC-V, PyQt ]
-VLSI / Hardware: [ OpenLane, Caravel, RTL2GDS, SiFive ]
-ML / AI:   [ TensorFlow, Transfer Learning, Edge AI ]
-Blockchain: [ EVM, Tron, Web3.js, NFTs ]
+```
+mawle-technologies-website/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styling
+├── script.js           # JavaScript functionality
+├── package.json        # Project configuration
+├── README.md          # Project documentation
+└── .gitignore         # Git ignore file
 ```
 
+## 🚀 Getting Started
+
+### Prerequisites
+- A modern web browser
+- Python 3.x (for local development server)
+
+### Installation & Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ankitmawle/mawle-technologies-website.git
+   cd mawle-technologies-website
+   ```
+
+2. **Start local development server**:
+   ```bash
+   npm start
+   # or
+   python3 -m http.server 8000
+   ```
+
+3. **Open in browser**:
+   Navigate to `http://localhost:8000`
+
+### Alternative Deployment
+
+You can also deploy this website to any static hosting service:
+
+- **GitHub Pages**: Push to GitHub and enable Pages in repository settings
+- **Netlify**: Drag and drop the project folder
+- **Vercel**: Connect your GitHub repository
+- **Firebase Hosting**: Use Firebase CLI to deploy
+
+## 🎨 Customization
+
+### Colors & Branding
+Update the CSS custom properties in `styles.css`:
+
+```css
+/* Primary gradient colors */
+background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+/* Accent colors */
+background: linear-gradient(135deg, #ffeaa7 0%, #fab1a0 100%);
+```
+
+### Content Updates
+1. **Company Information**: Update contact details in `index.html`
+2. **Services**: Modify service descriptions in the services section
+3. **Portfolio Links**: Update GitHub and Upwork URLs
+4. **Projects**: Add or modify featured projects
+
+### JavaScript Features
+- Mobile navigation toggle
+- Smooth scrolling
+- Form validation and submission
+- Intersection Observer animations
+- Parallax effects
+
+## 📱 Responsive Design
+
+The website is fully responsive with breakpoints at:
+- **Desktop**: 1200px and above
+- **Tablet**: 768px - 1199px
+- **Mobile**: Below 768px
+
+## 🔧 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/improvement`)
+5. Create a Pull Request
+
+## � Contact
+
+**Mawle Technologies**
+- **Website**: [https://mawletechnologies.com](https://mawletechnologies.com)
+- **Email**: contact@mawletechnologies.com
+- **GitHub**: [https://github.com/ankitmawle](https://github.com/ankitmawle)
+- **Upwork**: [https://www.upwork.com/freelancers/ankitm71](https://www.upwork.com/freelancers/ankitm71)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Font Awesome for the icon library
+- Google Fonts for the Inter typeface
+- Modern CSS Grid and Flexbox for layout
+- JavaScript ES6+ features for interactivity
+
 ---
 
-### 🛠️ Not Just Code — Systems
-
-I love working at the intersection of software, hardware, and intelligence.  
-Whether it’s automating plasma cutters, creating AI-powered soil sensors, or building programmable gifting NFTs—  
-**I turn abstract ideas into working systems.**
-
----
-
-### 🌱 Seeded From
-
-- 🎓 B.Tech in Electronics & Telecommunication from GCE Karad  
-- 🧪 Research assistant for Ph.D. projects in smart grids, nutrient automation, and plant disease detection  
-- 🛠️ Former roles: Software Architect, IoT Head, Embedded Engineer  
-
----
-
-### 🎯 Hackathon Highlights
-
-🏅 **Tokeniz** – Lock crypto inside NFTs (2nd Runner-Up, Tron Grand Hackathon Season 2)  
-🏅 **SmartPay** – UPI-style Web3 microtransactions (Top 5, Tron Hackathon Season 3)  
-🏅 **GCEK Hackathon 2020** – 🥉  
-🏅 **Ideathon 2020** – 🥇  
-
----
-
-### 💬 Let's Talk Tech, Ideas & Impact
-
-- 🧵 [LinkedIn](https://www.linkedin.com/in/ankitmawle)  
-- 💻 [GitHub](https://github.com/ankitmawle)  
-- 📧 [ankitmawle@gmail.com](mailto:ankitmawle@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitmawle&show_icons=true&theme=tokyonight&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmawle&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-> “The most beautiful code is the one that bridges worlds—hardware and software, human and machine.”
-
-✨ _Thanks for stopping by!_ Let’s build the future.
+**Built with ❤️ by Mawle Technologies**
