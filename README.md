@@ -1,12 +1,41 @@
 <h1 align="center">Hey there 👋, I'm Ankit Mawle</h1>
 <p align="center">
-  <em>Full-Stack Developer | Embedded Systems Architect | VLSI & AI Explorer</em><br>
-  <em>Crafting software that talks to silicon, scales to the cloud, and unlocks the future.</em>
+  <em>Full-Stack Developer · Embedded Systems Architect · Edge AI & Web3 Builder</em><br>
+  <em>I build systems where code meets silicon, and scale meets impact.</em>
 </p>
 
 ---
+### 🚀 What I'm Working On Currently
 
-### 🔭 What I'm Building
+🔧 **VSDSquadron Pro Edge AI Platform**  
+→ RISC-V-based development for Edge AI applications with hands-on learning via embedded workflows.  
+→ 🧠 Project Advisor at [VLSI System Design](https://vsdiat.vlsisystemdesign.com) (Edge AI + LMS platform VSD-IAT)  
+→ [GitHub(might be private)](https://github.com/ankitmawle/VSDSquadron_pro_Edge_AI)
+
+🌾 **Adhipa Farms – Regenerative Agriculture Systems**  
+→ Architecting tech platforms for a farmer-led FPC: IoT-based crop insights, traceability, & internal management systems.  
+→ Technical Advisor & System Architect
+
+🔸 **Mawle Technologies – Custom Platforms & Infra**  
+→ Building serverless LMS and e-commerce systems, Web3 integrations, and cloud-native products for startups & creators.
+
+---
+
+### 🧰 Tools & Tech I Speak
+
+```yaml
+Languages: [ Python, TypeScript, C++, C, Solidity ]
+Frontend:  [ SvelteKit, React, HTML5, CSS3 ]
+Backend:   [ Node.js, Cloudflare Workers, Flask, Express ]
+DevOps:    [ GitHub Actions, Docker, Firebase, Cloudflare, AWS ]
+IoT / Embedded: [ ESP32, STM32, RISC-V, PyQt ]
+Hardware / VLSI: [ OpenLane, Caravel, SiFive, ASIC Flow ]
+ML / AI:   [ TensorFlow, Edge AI, Transfer Learning ]
+Blockchain: [ EVM, Tron, NFTs, Web3.js ]
+```
+
+---
+### 🧠 Few Selected Projects I have worked on
 
 🚀 **VSDSquadron Pro Edge AI**  
 → RISC-V based Edge AI platform with embedded intelligence and hardware-software co-design.  
@@ -35,20 +64,7 @@
 
 ---
 
-### 🧩 My Stack of Spells
 
-```yaml
-Languages: [ Python, JavaScript, TypeScript, C++, C, Solidity ]
-Frontend:  [ SvelteKit, React, HTML5, CSS3 ]
-Backend:   [ Node.js, Flask, Cloudflare Workers, Express ]
-DevOps:    [ Docker, GitHub Actions, Firebase, Cloudflare, AWS ]
-IoT / Embedded: [ ESP32, STM32, RISC-V, PyQt ]
-VLSI / Hardware: [ OpenLane, Caravel, RTL2GDS, SiFive ]
-ML / AI:   [ TensorFlow, Transfer Learning, Edge AI ]
-Blockchain: [ EVM, Tron, Web3.js, NFTs ]
-```
-
----
 
 ### 🛠️ Not Just Code — Systems
 
@@ -75,6 +91,13 @@ Whether it’s automating plasma cutters, creating AI-powered soil sensors, or b
 
 ---
 
+### ⚡ I Build at the Intersection
+
+I thrive on solving tough system problems — especially where hardware meets software, and constraints demand creativity.  
+From regenerative farming to programmable finance, I build tech that matters.
+
+---
+
 ### 💬 Let's Talk Tech, Ideas & Impact
 
 - 🧵 [LinkedIn](https://www.linkedin.com/in/ankitmawle)  
@@ -90,6 +113,6 @@ Whether it’s automating plasma cutters, creating AI-powered soil sensors, or b
 
 ---
 
-> “The most beautiful code is the one that bridges worlds—hardware and software, human and machine.”
+> _“Systems are the new software. Build them thoughtfully, and they’ll shape the world.”_
 
 ✨ _Thanks for stopping by!_ Let’s build the future.
